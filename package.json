@@ -1,0 +1,28 @@
+{
+  "name": "polaris-log-downloader",
+  "version": "1.0.0",
+  "description": "Log Downloader ",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verichains/polaris-log-downloader.git"
+  },
+  "keywords": [
+    "script"
+  ],
+  "author": "vinhnp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verichains/polaris-log-downloader/issues"
+  },
+  "homepage": "https://github.com/verichains/polaris-log-downloader#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "md5-file": "^4.0.0",
+    "winston": "^3.2.1"
+  }
+}
