@@ -13,11 +13,11 @@
 
 1. Create **.env** file in src folder from **.env.example** template. You can get the information the the Log Setup Screen in Polaris.
 
-2. Run **npm install ** to install library
+2. Run **npm install** to install library
 
 3. Start download logs by running: 
 
    ```
-   npm run dev
+   npm run start
    ```
 
