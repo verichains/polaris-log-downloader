@@ -1,7 +1,7 @@
 const axios = require('axios');
 const logger = require('./Logger');
 const fs = require('fs');
-const http = require('http');
+const http = require('https');
 const path = require('path');
 const md5_file = require('md5-file');
 
